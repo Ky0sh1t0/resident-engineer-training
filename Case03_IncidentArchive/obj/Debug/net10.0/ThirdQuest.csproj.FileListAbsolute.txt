@@ -1,0 +1,14 @@
+D:\Backend\learningPath\ThirdQuest\obj\Debug\net10.0\ThirdQuest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\learningPath\ThirdQuest\obj\Debug\net10.0\ThirdQuest.AssemblyInfoInputs.cache
+D:\Backend\learningPath\ThirdQuest\obj\Debug\net10.0\ThirdQuest.AssemblyInfo.cs
+D:\Backend\learningPath\ThirdQuest\obj\Debug\net10.0\ThirdQuest.csproj.CoreCompileInputs.cache
+D:\Backend\learningPath\ThirdQuest\bin\Debug\net10.0\ThirdQuest.exe
+D:\Backend\learningPath\ThirdQuest\bin\Debug\net10.0\ThirdQuest.deps.json
+D:\Backend\learningPath\ThirdQuest\bin\Debug\net10.0\ThirdQuest.runtimeconfig.json
+D:\Backend\learningPath\ThirdQuest\bin\Debug\net10.0\ThirdQuest.dll
+D:\Backend\learningPath\ThirdQuest\bin\Debug\net10.0\ThirdQuest.pdb
+D:\Backend\learningPath\ThirdQuest\obj\Debug\net10.0\ThirdQuest.dll
+D:\Backend\learningPath\ThirdQuest\obj\Debug\net10.0\refint\ThirdQuest.dll
+D:\Backend\learningPath\ThirdQuest\obj\Debug\net10.0\ThirdQuest.pdb
+D:\Backend\learningPath\ThirdQuest\obj\Debug\net10.0\ThirdQuest.genruntimeconfig.cache
+D:\Backend\learningPath\ThirdQuest\obj\Debug\net10.0\ref\ThirdQuest.dll

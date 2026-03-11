@@ -1,0 +1,14 @@
+D:\Backend\learningPath\FirstQuest\bin\Debug\net10.0\FirstQuest.exe
+D:\Backend\learningPath\FirstQuest\bin\Debug\net10.0\FirstQuest.deps.json
+D:\Backend\learningPath\FirstQuest\bin\Debug\net10.0\FirstQuest.runtimeconfig.json
+D:\Backend\learningPath\FirstQuest\bin\Debug\net10.0\FirstQuest.dll
+D:\Backend\learningPath\FirstQuest\bin\Debug\net10.0\FirstQuest.pdb
+D:\Backend\learningPath\FirstQuest\obj\Debug\net10.0\FirstQuest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\learningPath\FirstQuest\obj\Debug\net10.0\FirstQuest.AssemblyInfoInputs.cache
+D:\Backend\learningPath\FirstQuest\obj\Debug\net10.0\FirstQuest.AssemblyInfo.cs
+D:\Backend\learningPath\FirstQuest\obj\Debug\net10.0\FirstQuest.csproj.CoreCompileInputs.cache
+D:\Backend\learningPath\FirstQuest\obj\Debug\net10.0\FirstQuest.dll
+D:\Backend\learningPath\FirstQuest\obj\Debug\net10.0\refint\FirstQuest.dll
+D:\Backend\learningPath\FirstQuest\obj\Debug\net10.0\FirstQuest.pdb
+D:\Backend\learningPath\FirstQuest\obj\Debug\net10.0\FirstQuest.genruntimeconfig.cache
+D:\Backend\learningPath\FirstQuest\obj\Debug\net10.0\ref\FirstQuest.dll

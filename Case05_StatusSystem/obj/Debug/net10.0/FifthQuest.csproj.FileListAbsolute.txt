@@ -1,0 +1,14 @@
+D:\Backend\learningPath\FifthQuest\obj\Debug\net10.0\FifthQuest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\learningPath\FifthQuest\obj\Debug\net10.0\FifthQuest.AssemblyInfoInputs.cache
+D:\Backend\learningPath\FifthQuest\obj\Debug\net10.0\FifthQuest.AssemblyInfo.cs
+D:\Backend\learningPath\FifthQuest\obj\Debug\net10.0\FifthQuest.csproj.CoreCompileInputs.cache
+D:\Backend\learningPath\FifthQuest\bin\Debug\net10.0\FifthQuest.exe
+D:\Backend\learningPath\FifthQuest\bin\Debug\net10.0\FifthQuest.deps.json
+D:\Backend\learningPath\FifthQuest\bin\Debug\net10.0\FifthQuest.runtimeconfig.json
+D:\Backend\learningPath\FifthQuest\bin\Debug\net10.0\FifthQuest.dll
+D:\Backend\learningPath\FifthQuest\bin\Debug\net10.0\FifthQuest.pdb
+D:\Backend\learningPath\FifthQuest\obj\Debug\net10.0\FifthQuest.dll
+D:\Backend\learningPath\FifthQuest\obj\Debug\net10.0\refint\FifthQuest.dll
+D:\Backend\learningPath\FifthQuest\obj\Debug\net10.0\FifthQuest.pdb
+D:\Backend\learningPath\FifthQuest\obj\Debug\net10.0\FifthQuest.genruntimeconfig.cache
+D:\Backend\learningPath\FifthQuest\obj\Debug\net10.0\ref\FifthQuest.dll

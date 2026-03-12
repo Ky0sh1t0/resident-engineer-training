@@ -1,0 +1,14 @@
+D:\Backend\learningPath\SeventhCase\obj\Debug\net10.0\SeventhCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\learningPath\SeventhCase\obj\Debug\net10.0\SeventhCase.AssemblyInfoInputs.cache
+D:\Backend\learningPath\SeventhCase\obj\Debug\net10.0\SeventhCase.AssemblyInfo.cs
+D:\Backend\learningPath\SeventhCase\obj\Debug\net10.0\SeventhCase.csproj.CoreCompileInputs.cache
+D:\Backend\learningPath\SeventhCase\bin\Debug\net10.0\SeventhCase.exe
+D:\Backend\learningPath\SeventhCase\bin\Debug\net10.0\SeventhCase.deps.json
+D:\Backend\learningPath\SeventhCase\bin\Debug\net10.0\SeventhCase.runtimeconfig.json
+D:\Backend\learningPath\SeventhCase\bin\Debug\net10.0\SeventhCase.dll
+D:\Backend\learningPath\SeventhCase\bin\Debug\net10.0\SeventhCase.pdb
+D:\Backend\learningPath\SeventhCase\obj\Debug\net10.0\SeventhCase.dll
+D:\Backend\learningPath\SeventhCase\obj\Debug\net10.0\refint\SeventhCase.dll
+D:\Backend\learningPath\SeventhCase\obj\Debug\net10.0\SeventhCase.pdb
+D:\Backend\learningPath\SeventhCase\obj\Debug\net10.0\SeventhCase.genruntimeconfig.cache
+D:\Backend\learningPath\SeventhCase\obj\Debug\net10.0\ref\SeventhCase.dll

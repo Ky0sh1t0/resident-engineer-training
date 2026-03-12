@@ -1,0 +1,14 @@
+D:\Backend\learningPath\SixthQuest\obj\Debug\net10.0\SixthQuest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\learningPath\SixthQuest\obj\Debug\net10.0\SixthQuest.AssemblyInfoInputs.cache
+D:\Backend\learningPath\SixthQuest\obj\Debug\net10.0\SixthQuest.AssemblyInfo.cs
+D:\Backend\learningPath\SixthQuest\obj\Debug\net10.0\SixthQuest.csproj.CoreCompileInputs.cache
+D:\Backend\learningPath\SixthQuest\bin\Debug\net10.0\SixthQuest.exe
+D:\Backend\learningPath\SixthQuest\bin\Debug\net10.0\SixthQuest.deps.json
+D:\Backend\learningPath\SixthQuest\bin\Debug\net10.0\SixthQuest.runtimeconfig.json
+D:\Backend\learningPath\SixthQuest\bin\Debug\net10.0\SixthQuest.dll
+D:\Backend\learningPath\SixthQuest\bin\Debug\net10.0\SixthQuest.pdb
+D:\Backend\learningPath\SixthQuest\obj\Debug\net10.0\SixthQuest.dll
+D:\Backend\learningPath\SixthQuest\obj\Debug\net10.0\refint\SixthQuest.dll
+D:\Backend\learningPath\SixthQuest\obj\Debug\net10.0\SixthQuest.pdb
+D:\Backend\learningPath\SixthQuest\obj\Debug\net10.0\SixthQuest.genruntimeconfig.cache
+D:\Backend\learningPath\SixthQuest\obj\Debug\net10.0\ref\SixthQuest.dll

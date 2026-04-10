@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Subject A",
+    "DangerLevel": 4,
+    "IsInfected": true,
+    "Status": 1
+  },
+  {
+    "Name": "Subject C",
+    "DangerLevel": 5,
+    "IsInfected": true,
+    "Status": 2
+  },
+  {
+    "Name": "Subject D",
+    "DangerLevel": 2,
+    "IsInfected": true,
+    "Status": 1
+  },
+  {
+    "Name": "Subject G",
+    "DangerLevel": 1,
+    "IsInfected": false,
+    "Status": 0
+  }
+]
